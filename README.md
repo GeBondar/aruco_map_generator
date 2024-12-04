@@ -17,5 +17,5 @@ This script generates an SVG map with ArUco markers based on a text input file t
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/GeBondar/aruco_map_generator.git
+   cd aruco_map_generator
